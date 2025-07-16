@@ -36,7 +36,7 @@
   <a href="https://ykkos2.itch.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
   </a>
-  <a href="bruno.rogues.garcia@gmail.com" target="_blank">
+  <a href="mailto:bruno.rogues.garcia@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
