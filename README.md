@@ -55,6 +55,4 @@
 
 <img src="https://raw.githubusercontent.com/brunoydev/brunoydev/output/snake.svg" alt="Snake animation" />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=limboni50)
-
 ###
